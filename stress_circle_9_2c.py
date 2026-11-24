@@ -117,7 +117,7 @@ ax.annotate(r'$\sigma_2=30$', xy=(30, 0), xytext=(22, 8),
             arrowprops=dict(arrowstyle='->', color='red', lw=1.5))
 
 # ── 标题 ──────────────────────────────────────────────────────────────────
-ax.set_title(r'9.2(c) 应力圆 — $\sigma_x=50,\ \sigma_y=30,\ \tau_{xy}=0$',
+ax.set_title(r'9.2(c) Stress Circle — $\sigma_x=50,\ \sigma_y=30,\ \tau_{xy}=0$ MPa',
              fontsize=14, pad=15)
 
 # ── 网格和比例 ─────────────────────────────────────────────────────────────
